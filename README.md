@@ -60,10 +60,16 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | ------- |
 | [0242-valid-anagram](https://github.com/vasis09/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vasis09/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/vasis09/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/vasis09/DSA-Leetcode/tree/master/0709-to-lower-case) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vasis09/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/vasis09/DSA-Leetcode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/vasis09/DSA-Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
