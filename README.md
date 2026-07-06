@@ -20,6 +20,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0027-remove-element](https://github.com/vasis09/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vasis09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/vasis09/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vasis09/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vasis09/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Sorting
@@ -58,6 +59,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/vasis09/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vasis09/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vasis09/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vasis09/DSA-Leetcode/tree/master/0383-ransom-note) |
