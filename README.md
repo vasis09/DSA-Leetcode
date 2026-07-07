@@ -23,6 +23,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0125-valid-palindrome](https://github.com/vasis09/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vasis09/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0680-valid-palindrome-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0344-reverse-string](https://github.com/vasis09/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vasis09/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0680-valid-palindrome-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/vasis09/DSA-Leetcode/tree/master/0709-to-lower-case) |
 ## Hash Table
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/vasis09/DSA-Leetcode/tree/master/0383-ransom-note) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
