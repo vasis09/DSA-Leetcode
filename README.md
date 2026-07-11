@@ -6,6 +6,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vasis09/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vasis09/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vasis09/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vasis09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
@@ -62,6 +63,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vasis09/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/vasis09/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vasis09/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vasis09/DSA-Leetcode/tree/master/0344-reverse-string) |
@@ -83,4 +85,8 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vasis09/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
