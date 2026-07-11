@@ -72,6 +72,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0344-reverse-string](https://github.com/vasis09/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vasis09/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/vasis09/DSA-Leetcode/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/vasis09/DSA-Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/vasis09/DSA-Leetcode/tree/master/0709-to-lower-case) |
@@ -96,4 +97,5 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasis09/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/vasis09/DSA-Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
