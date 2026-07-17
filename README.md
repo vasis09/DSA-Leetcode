@@ -6,6 +6,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vasis09/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/vasis09/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vasis09/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vasis09/DSA-Leetcode/tree/master/0027-remove-element) |
@@ -93,6 +94,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vasis09/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vasis09/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/vasis09/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/vasis09/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
