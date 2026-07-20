@@ -48,6 +48,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasis09/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vasis09/DSA-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/vasis09/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/vasis09/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -84,6 +85,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasis09/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/vasis09/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasis09/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vasis09/DSA-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/vasis09/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vasis09/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vasis09/DSA-Leetcode/tree/master/0125-valid-palindrome) |
@@ -103,6 +105,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | ------- |
 | [0001-two-sum](https://github.com/vasis09/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasis09/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vasis09/DSA-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/vasis09/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/vasis09/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/vasis09/DSA-Leetcode/tree/master/0202-happy-number) |
