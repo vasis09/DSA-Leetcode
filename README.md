@@ -11,6 +11,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vasis09/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vasis09/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vasis09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/vasis09/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/vasis09/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vasis09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/vasis09/DSA-Leetcode/tree/master/0392-is-subsequence) |
 ## Stack
@@ -126,6 +128,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Trie
