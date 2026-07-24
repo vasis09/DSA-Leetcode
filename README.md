@@ -56,6 +56,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0424-longest-repeating-character-replacement](https://github.com/vasis09/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/vasis09/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasis09/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0557-reverse-words-in-a-string-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/vasis09/DSA-Leetcode/tree/master/0709-to-lower-case) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasis09/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0383-ransom-note](https://github.com/vasis09/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/vasis09/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/vasis09/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasis09/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting
 |  |
 | ------- |
