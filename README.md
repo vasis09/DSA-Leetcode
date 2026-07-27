@@ -26,6 +26,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0930-binary-subarrays-with-sum](https://github.com/vasis09/DSA-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vasis09/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vasis09/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasis09/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
@@ -66,6 +67,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [1004-max-consecutive-ones-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vasis09/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasis09/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vasis09/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0930-binary-subarrays-with-sum](https://github.com/vasis09/DSA-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vasis09/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vasis09/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
 | ------- |
