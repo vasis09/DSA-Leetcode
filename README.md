@@ -123,6 +123,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0680-valid-palindrome-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/vasis09/DSA-Leetcode/tree/master/0709-to-lower-case) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasis09/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vasis09/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vasis09/DSA-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Hash Table
@@ -162,6 +163,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0045-jump-game-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vasis09/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0202-happy-number](https://github.com/vasis09/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vasis09/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vasis09/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vasis09/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
