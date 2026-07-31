@@ -82,6 +82,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vasis09/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vasis09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasis09/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/vasis09/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/vasis09/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasis09/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vasis09/DSA-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/vasis09/DSA-Leetcode/tree/master/0049-group-anagrams) |
