@@ -29,6 +29,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0992-subarrays-with-k-different-integers](https://github.com/vasis09/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vasis09/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vasis09/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasis09/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0392-is-subsequence](https://github.com/vasis09/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/vasis09/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0628-maximum-product-of-three-numbers](https://github.com/vasis09/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vasis09/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vasis09/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -241,4 +244,13 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | ------- |
 | [0486-predict-the-winner](https://github.com/vasis09/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
