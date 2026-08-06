@@ -203,6 +203,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [1248-count-number-of-nice-subarrays](https://github.com/vasis09/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vasis09/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vasis09/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
@@ -233,6 +234,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vasis09/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Counting Sort
 |  |
