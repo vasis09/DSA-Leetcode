@@ -21,6 +21,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0219-contains-duplicate-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vasis09/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/vasis09/DSA-Leetcode/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/vasis09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vasis09/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vasis09/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vasis09/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -92,10 +93,12 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | ------- |
 | [0020-valid-parentheses](https://github.com/vasis09/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vasis09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/vasis09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vasis09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/vasis09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0347-top-k-frequent-elements](https://github.com/vasis09/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/vasis09/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/vasis09/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/vasis09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vasis09/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vasis09/DSA-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vasis09/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
