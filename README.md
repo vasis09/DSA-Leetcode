@@ -35,6 +35,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [1406-stone-game-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vasis09/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasis09/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vasis09/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/vasis09/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -81,6 +82,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [1248-count-number-of-nice-subarrays](https://github.com/vasis09/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasis09/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vasis09/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vasis09/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0992-subarrays-with-k-different-integers](https://github.com/vasis09/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vasis09/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasis09/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vasis09/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/vasis09/DSA-Leetcode/tree/master/3731-find-missing-elements) |
