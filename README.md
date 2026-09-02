@@ -14,6 +14,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0045-jump-game-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/vasis09/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/vasis09/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/vasis09/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/vasis09/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/vasis09/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -91,6 +92,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0042-trapping-rain-water](https://github.com/vasis09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/vasis09/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/vasis09/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/vasis09/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0877-stone-game) |
@@ -102,12 +104,14 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | ------- |
 | [0020-valid-parentheses](https://github.com/vasis09/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vasis09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/vasis09/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/vasis09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vasis09/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vasis09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/vasis09/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/vasis09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vasis09/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 ## Binary Search
@@ -315,4 +319,8 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vasis09/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/vasis09/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
