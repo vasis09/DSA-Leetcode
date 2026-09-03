@@ -109,6 +109,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0496-next-greater-element-i](https://github.com/vasis09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vasis09/DSA-Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vasis09/DSA-Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vasis09/DSA-Leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0085-maximal-rectangle](https://github.com/vasis09/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/vasis09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vasis09/DSA-Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vasis09/DSA-Leetcode/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -329,4 +331,12 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vasis09/DSA-Leetcode/tree/master/0735-asteroid-collision) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vasis09/DSA-Leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vasis09/DSA-Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
