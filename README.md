@@ -26,6 +26,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0560-subarray-sum-equals-k](https://github.com/vasis09/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vasis09/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vasis09/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/vasis09/DSA-Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vasis09/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/vasis09/DSA-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0042-trapping-rain-water](https://github.com/vasis09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/vasis09/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/vasis09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/vasis09/DSA-Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vasis09/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -323,4 +325,8 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/vasis09/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/vasis09/DSA-Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
