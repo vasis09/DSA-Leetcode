@@ -29,6 +29,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0735-asteroid-collision](https://github.com/vasis09/DSA-Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vasis09/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0877-stone-game) |
+| [0907-sum-of-subarray-minimums](https://github.com/vasis09/DSA-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/vasis09/DSA-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vasis09/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -97,6 +98,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0392-is-subsequence](https://github.com/vasis09/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/vasis09/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0877-stone-game) |
+| [0907-sum-of-subarray-minimums](https://github.com/vasis09/DSA-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1140-stone-game-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vasis09/DSA-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -110,6 +112,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0735-asteroid-collision](https://github.com/vasis09/DSA-Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vasis09/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vasis09/DSA-Leetcode/tree/master/0901-online-stock-span) |
+| [0907-sum-of-subarray-minimums](https://github.com/vasis09/DSA-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0496-next-greater-element-i](https://github.com/vasis09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vasis09/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vasis09/DSA-Leetcode/tree/master/0901-online-stock-span) |
+| [0907-sum-of-subarray-minimums](https://github.com/vasis09/DSA-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Binary Search
 |  |
 | ------- |
