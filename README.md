@@ -38,6 +38,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [1406-stone-game-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vasis09/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasis09/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/vasis09/DSA-Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vasis09/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vasis09/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0739-daily-temperatures](https://github.com/vasis09/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vasis09/DSA-Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/vasis09/DSA-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/vasis09/DSA-Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0739-daily-temperatures](https://github.com/vasis09/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vasis09/DSA-Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/vasis09/DSA-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/vasis09/DSA-Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
 | ------- |
