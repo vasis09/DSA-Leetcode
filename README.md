@@ -92,6 +92,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vasis09/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vasis09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0055-jump-game) |
@@ -107,6 +108,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vasis09/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vasis09/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vasis09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/vasis09/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/vasis09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
@@ -149,6 +151,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0020-valid-parentheses](https://github.com/vasis09/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasis09/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vasis09/DSA-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/vasis09/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vasis09/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vasis09/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/vasis09/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
@@ -352,5 +355,6 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vasis09/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vasis09/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
