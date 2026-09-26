@@ -114,6 +114,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0739-daily-temperatures](https://github.com/vasis09/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vasis09/DSA-Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/vasis09/DSA-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vasis09/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2104-sum-of-subarray-ranges](https://github.com/vasis09/DSA-Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0557-reverse-words-in-a-string-iii](https://github.com/vasis09/DSA-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/vasis09/DSA-Leetcode/tree/master/0709-to-lower-case) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vasis09/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasis09/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vasis09/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vasis09/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -215,6 +217,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0045-jump-game-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vasis09/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vasis09/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vasis09/DSA-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -346,4 +349,8 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vasis09/DSA-Leetcode/tree/master/0901-online-stock-span) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vasis09/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
