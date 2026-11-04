@@ -96,6 +96,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0042-trapping-rain-water](https://github.com/vasis09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/vasis09/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/vasis09/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/vasis09/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/vasis09/DSA-Leetcode/tree/master/0486-predict-the-winner) |
@@ -239,6 +240,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vasis09/DSA-Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/vasis09/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/vasis09/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/vasis09/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vasis09/DSA-Leetcode/tree/master/0509-fibonacci-number) |
@@ -372,5 +374,6 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vasis09/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vasis09/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
