@@ -237,6 +237,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vasis09/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/vasis09/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/vasis09/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vasis09/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -290,6 +291,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vasis09/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/vasis09/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
