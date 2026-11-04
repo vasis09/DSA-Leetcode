@@ -99,6 +99,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0085-maximal-rectangle](https://github.com/vasis09/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/vasis09/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/vasis09/DSA-Leetcode/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/vasis09/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/vasis09/DSA-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1140-stone-game-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/1140-stone-game-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0050-powx-n](https://github.com/vasis09/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/vasis09/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/vasis09/DSA-Leetcode/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/vasis09/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vasis09/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vasis09/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vasis09/DSA-Leetcode/tree/master/1140-stone-game-ii) |
@@ -293,6 +295,7 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | ------- |
 | [0050-powx-n](https://github.com/vasis09/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/vasis09/DSA-Leetcode/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/vasis09/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -366,4 +369,8 @@ A collection of LeetCode solutions in Java for DSA practice, problem-solving, an
 | [0584-find-customer-referee](https://github.com/vasis09/DSA-Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/vasis09/DSA-Leetcode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vasis09/DSA-Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vasis09/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
